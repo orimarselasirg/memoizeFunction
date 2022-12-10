@@ -24,14 +24,15 @@ and
 ``` 
 node-v
 ```
+after that, you must clone this repository into your machine
 
 ## Installing
 
  it's time to install
 
  - Open a terminal
- - Go into the folder root
- - run the following code "npm install"
+ - Go into the folder root where you clone this repository
+ - run the following code "npm install" and wait until the installation ends
 
 ## time to run the app
 
